@@ -1,0 +1,11 @@
+
+handlers:
+  - name: imap
+    username: '<Username>'
+    password: '<Password>'
+    hostname: '<Email address>'
+    timeout: 30
+    port: '<Port>'
+    search: 'SINCE'
+    flag: 'ALL'
+    select: 'select'

@@ -1,0 +1,15 @@
+cachetools==4.2.0
+certifi==2020.12.5
+chardet==4.0.0
+cssselect==1.1.0
+cssutils==1.0.2
+emails==0.6
+idna==2.10
+lxml==4.6.2
+premailer==3.7.0
+python-dateutil==2.8.1
+python-imap==1.0.0
+PyYAML==5.3.1
+requests==2.25.1
+six==1.15.0
+urllib3==1.26.2
